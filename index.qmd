@@ -1,18 +1,24 @@
 ---
-title: "About Me"
+title: "Agronomy Group Kiel"
 about:
-  id: me
+  id: AgronomyKiel
   template: broadside
-  image: img/profile.png
+  image: img/image_teaserXL.jpeg
 ---
 
-:::{#me}
+:::{#AgronomyKiel}
 
-## Goals
+# Background
+
+The Agronomy group of the University Kiel is located in the north of Germany. We are a small group of researchers working on various aspects of crop production, crop management, and sustainable agriculture. Crop growth and soil models are a major focus of our work, and we conduct(ed) several projects that aim to improve the understanding of crop-soil interactions and to develop tools for better crop management.
+Teaching is an important part of our work, and we are involved in several courses at the University of Kiel. For some of the courses small toy models have been developed to illustrate the principles of crop growth and soil processes. 
+
+# Github-projects
+
 
 ## Education
 
-## Experience
+## Research
 
 :::
 

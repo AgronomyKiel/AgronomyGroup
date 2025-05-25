@@ -1,23 +1,23 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "section": "",
+    "text": "Hume is a component based crop growth model."
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "projects.html#hume-a-component-based-crop-growth-model",
+    "href": "projects.html#hume-a-component-based-crop-growth-model",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "",
+    "text": "Hume is a component based crop growth model."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Agronomy Group Kiel",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "The Agronomy group of the University Kiel is located in the north of Germany. We are a small group of researchers working on various aspects of crop production, crop management, and sustainable agriculture. Crop growth and soil models are a major focus of our work, and we conduct(ed) several projects that aim to improve the understanding of crop-soil interactions and to develop tools for better crop management. Teaching is an important part of our work, and we are involved in several courses at the University of Kiel. For some of the courses small toy models have been developed to illustrate the principles of crop growth and soil processes.\nThanks for checking out my web site!"
   }
 ]
